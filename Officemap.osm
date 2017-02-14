@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='-34.0794558' minlon='18.4352088' maxlat='-34.077954' maxlon='18.4370005' origin='CGImap 0.5.8 (20987 thorn-03.openstreetmap.org)' />
+  <node id='-30470' action='modify' visible='true' lat='-34.07893108862' lon='18.43577557648' />
+  <node id='-30472' action='modify' visible='true' lat='-34.07883778205' lon='18.4356012329' />
+  <node id='-30474' action='modify' visible='true' lat='-34.07865783339' lon='18.43573132003' />
+  <node id='-30476' action='modify' visible='true' lat='-34.07891109437' lon='18.43622082318' />
+  <node id='-30478' action='modify' visible='true' lat='-34.07895580374' lon='18.43618628974' />
+  <node id='-30480' action='modify' visible='true' lat='-34.07894469582' lon='18.43616483206' />
+  <node id='-30482' action='modify' visible='true' lat='-34.07904688859' lon='18.43609107132' />
+  <node id='-30484' action='modify' visible='true' lat='-34.0789069289' lon='18.43581346268' />
+  <node id='-30486' action='modify' visible='true' lat='-34.07893914186' lon='18.43579066391' />
+  <node id='336233211' timestamp='2016-10-23T11:51:18Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43098464' lat='-34.0773939' lon='18.4375626' />
+  <node id='336233545' timestamp='2016-10-23T11:51:18Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43098464' lat='-34.077723' lon='18.4373179' />
+  <node id='336233976' timestamp='2016-10-23T11:51:18Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43098464' lat='-34.077422' lon='18.4355295' />
+  <node id='336233978' timestamp='2009-01-25T11:08:12Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0783218' lon='18.4364038' />
+  <node id='336234045' timestamp='2016-10-23T11:51:18Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43098464' lat='-34.0771976' lon='18.4354746' />
+  <node id='336234052' timestamp='2016-10-23T11:51:18Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43098464' lat='-34.0773314' lon='18.4354739' />
+  <node id='336241136' timestamp='2009-01-25T11:30:36Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0810319' lon='18.437625' />
+  <node id='336241277' timestamp='2009-01-25T11:30:46Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0808712' lon='18.4379628' />
+  <node id='336241289' timestamp='2009-01-25T11:30:49Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0811147' lon='18.4369983' />
+  <node id='336241346' timestamp='2009-01-25T11:31:13Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0811206' lon='18.436826' />
+  <node id='336241990' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0797622' lon='18.4368221' />
+  <node id='336242069' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0799474' lon='18.4348513' />
+  <node id='336242322' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0805469' lon='18.4382788' />
+  <node id='336242355' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0807935' lon='18.4381018' />
+  <node id='336242359' timestamp='2009-01-25T11:37:13Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0801503' lon='18.4375502' />
+  <node id='336242417' timestamp='2009-01-25T11:37:19Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0810921' lon='18.4364959' />
+  <node id='336242427' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0797026' lon='18.4357736' />
+  <node id='336242485' timestamp='2009-01-25T11:37:27Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0810081' lon='18.4363728' />
+  <node id='336242506' timestamp='2009-01-25T11:37:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.079833' lon='18.435677' />
+  <node id='336242600' timestamp='2009-01-25T11:37:39Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0811247' lon='18.4367276' />
+  <node id='336243125' timestamp='2009-01-25T11:38:21Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0785466' lon='18.4343187' />
+  <node id='336243159' timestamp='2009-01-25T11:38:34Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0787607' lon='18.4352925' />
+  <node id='336243198' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0785661' lon='18.4349903' />
+  <node id='336243224' timestamp='2009-01-25T11:38:49Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0786387' lon='18.4347329' />
+  <node id='336243237' timestamp='2009-01-25T11:38:51Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0788493' lon='18.4354469' />
+  <node id='336243276' timestamp='2009-01-25T11:38:58Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0788273' lon='18.4340981' />
+  <node id='336243348' timestamp='2009-01-25T11:39:05Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0785254' lon='18.4351035' />
+  <node id='336243696' timestamp='2009-01-25T11:39:33Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0794246' lon='18.4384752' />
+  <node id='336243737' timestamp='2009-01-25T11:39:37Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0794321' lon='18.4352391' />
+  <node id='336243893' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0793884' lon='18.4360546' />
+  <node id='336243897' timestamp='2016-10-23T01:00:32Z' uid='3560' user='Firefishy' visible='true' version='2' changeset='43091819' lat='-34.0795301' lon='18.4359106' />
+  <node id='336244355' timestamp='2009-01-25T11:41:39Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0793311' lon='18.438287' />
+  <node id='336244358' timestamp='2009-01-25T11:41:43Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0786991' lon='18.4371343' />
+  <node id='336244360' timestamp='2009-01-25T11:41:46Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0790896' lon='18.4362415' />
+  <node id='336244361' timestamp='2009-01-25T11:41:47Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.078495' lon='18.4367237' />
+  <node id='336245228' timestamp='2009-01-25T11:44:23Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852' lat='-34.0783234' lon='18.4352803' />
+  <node id='2363080746' timestamp='2013-06-27T13:57:28Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0765568' lon='18.4353489' />
+  <node id='2363080767' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0774967' lon='18.4346879' />
+  <node id='2363080770' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0776776' lon='18.4351049' />
+  <node id='2363080772' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0778633' lon='18.4352893' />
+  <node id='2363080784' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0780512' lon='18.4334283' />
+  <node id='2363080789' timestamp='2013-06-27T14:10:38Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727243' lat='-34.0780638' lon='18.435318' />
+  <node id='2363080790' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0780841' lon='18.433573' />
+  <node id='2363080802' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0782463' lon='18.4352808' />
+  <node id='2363080807' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0784272' lon='18.4351361' />
+  <node id='2363080808' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0785259' lon='18.4349318' />
+  <node id='2363080809' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0785423' lon='18.4344694' />
+  <node id='2363080810' timestamp='2013-06-27T13:57:29Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727102' lat='-34.0785823' lon='18.4347106' />
+  <node id='2363088079' timestamp='2013-06-27T14:10:34Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727243' lat='-34.0783272' lon='18.4358833' />
+  <node id='2363088083' timestamp='2013-06-27T14:10:34Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727243' lat='-34.0789383' lon='18.4354469' />
+  <node id='2363088087' timestamp='2013-06-27T14:10:34Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727243' lat='-34.07911' lon='18.4361753' />
+  <node id='2363088089' timestamp='2013-06-27T14:10:34Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727243' lat='-34.079188' lon='18.4359807' />
+  <node id='2363110232' timestamp='2013-06-27T14:24:52Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727404' lat='-34.079512' lon='18.4386512'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2363110243' timestamp='2013-06-27T14:24:52Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727404' lat='-34.0797874' lon='18.4374662' />
+  <node id='4459822619' timestamp='2016-10-23T01:00:20Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0783001' lon='18.4356248'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822625' timestamp='2016-10-23T01:00:20Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0785161' lon='18.4352338'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822636' timestamp='2016-10-23T01:00:20Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0787083' lon='18.4354062'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822651' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.078976' lon='18.4352546'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822654' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0790376' lon='18.4355684'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822663' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0791865' lon='18.4353264'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822667' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0792734' lon='18.4355383'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822673' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0793223' lon='18.4364831'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822676' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0793845' lon='18.4360941' />
+  <node id='4459822677' timestamp='2016-10-23T01:00:21Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0793961' lon='18.4361592' />
+  <node id='4459822679' timestamp='2016-10-23T01:00:22Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.079415' lon='18.4359969' />
+  <node id='4459822681' timestamp='2016-10-23T01:00:22Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0794206' lon='18.435673'>
+    <tag k='access' v='private' />
+    <tag k='leisure' v='swimming_pool' />
+  </node>
+  <node id='4459822687' timestamp='2016-10-23T01:00:22Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0795761' lon='18.4364958' />
+  <node id='4459822694' timestamp='2016-10-23T01:00:22Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0796833' lon='18.4367111' />
+  <node id='4459822736' timestamp='2016-10-23T01:00:23Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0804736' lon='18.4381983' />
+  <node id='4459822738' timestamp='2016-10-23T01:00:23Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0805025' lon='18.4382466' />
+  <node id='4459822741' timestamp='2016-10-23T01:00:23Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.080523' lon='18.4382647' />
+  <node id='4459822744' timestamp='2016-10-23T01:00:23Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0805697' lon='18.4382875' />
+  <node id='4459822747' timestamp='2016-10-23T01:00:24Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0806085' lon='18.4382761' />
+  <node id='4459822751' timestamp='2016-10-23T01:00:24Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0806774' lon='18.4382305' />
+  <node id='4459822753' timestamp='2016-10-23T01:00:24Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819' lat='-34.0807557' lon='18.4381581' />
+  <node id='4460313527' timestamp='2016-10-23T11:51:14Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43098464' lat='-34.0772431' lon='18.4354632' />
+  <node id='4460313531' timestamp='2016-10-23T11:51:14Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43098464' lat='-34.0772881' lon='18.4354625' />
+  <node id='4460313532' timestamp='2016-10-23T11:51:14Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43098464' lat='-34.0773698' lon='18.4354913' />
+  <node id='4460313534' timestamp='2016-10-23T11:51:14Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43098464' lat='-34.0776141' lon='18.4357093' />
+  <way id='-30567' action='modify' visible='true'>
+    <nd ref='-30470' />
+    <nd ref='-30472' />
+    <nd ref='-30474' />
+    <nd ref='-30476' />
+    <nd ref='-30478' />
+    <nd ref='-30480' />
+    <nd ref='-30482' />
+    <nd ref='-30484' />
+    <nd ref='-30486' />
+    <nd ref='-30470' />
+    <tag k='building:levels' v='2' />
+  </way>
+  <way id='30475253' timestamp='2016-10-23T01:00:29Z' uid='3560' user='Firefishy' visible='true' version='3' changeset='43091819'>
+    <nd ref='336243893' />
+    <nd ref='4459822679' />
+    <nd ref='336243897' />
+    <nd ref='336242427' />
+    <nd ref='336242506' />
+    <nd ref='336242485' />
+    <nd ref='336242417' />
+    <nd ref='336242600' />
+    <nd ref='336241346' />
+    <nd ref='336241289' />
+    <nd ref='336241136' />
+    <nd ref='336241277' />
+    <nd ref='336242355' />
+    <nd ref='4459822753' />
+    <nd ref='4459822751' />
+    <nd ref='4459822747' />
+    <nd ref='4459822744' />
+    <nd ref='336242322' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Shrewsbury Way' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475300' timestamp='2016-10-23T11:51:15Z' uid='3560' user='Firefishy' visible='true' version='3' changeset='43098464'>
+    <nd ref='336234045' />
+    <nd ref='4460313527' />
+    <nd ref='4460313531' />
+    <nd ref='336234052' />
+    <nd ref='4460313532' />
+    <nd ref='336233976' />
+    <nd ref='4460313534' />
+    <nd ref='336233978' />
+    <nd ref='336244361' />
+    <nd ref='336244358' />
+    <nd ref='336244355' />
+    <nd ref='336243696' />
+    <nd ref='2363110232' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Bell Crescent' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475333' timestamp='2009-01-25T11:50:09Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='834852'>
+    <nd ref='336244360' />
+    <nd ref='336244361' />
+    <nd ref='336233545' />
+    <nd ref='336233211' />
+    <tag k='access' v='private' />
+    <tag k='created_by' v='shp2osm-capetown' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Bell Crescent' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475492' timestamp='2016-10-23T01:00:29Z' uid='3560' user='Firefishy' visible='true' version='3' changeset='43091819'>
+    <nd ref='336243893' />
+    <nd ref='4459822676' />
+    <nd ref='4459822677' />
+    <nd ref='4459822687' />
+    <nd ref='4459822694' />
+    <nd ref='336241990' />
+    <nd ref='336242359' />
+    <nd ref='4459822736' />
+    <nd ref='4459822738' />
+    <nd ref='4459822741' />
+    <nd ref='336242322' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Shrewsbury Way' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475605' timestamp='2013-06-27T14:10:37Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727243'>
+    <nd ref='336243348' />
+    <nd ref='336243159' />
+    <nd ref='336243237' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Rugby Close' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475613' timestamp='2013-06-27T14:10:37Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727243'>
+    <nd ref='336243125' />
+    <nd ref='336243224' />
+    <nd ref='336243198' />
+    <nd ref='336243348' />
+    <nd ref='336245228' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Rugby Close' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='30475614' timestamp='2013-06-27T14:10:37Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727243'>
+    <nd ref='336243276' />
+    <nd ref='336243737' />
+    <nd ref='336242427' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Shrewsbury Way' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <way id='227659321' timestamp='2013-06-27T14:24:55Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727404'>
+    <nd ref='2363080789' />
+    <nd ref='2363088079' />
+    <nd ref='2363088083' />
+    <nd ref='2363088089' />
+    <nd ref='2363088087' />
+    <nd ref='2363110243' />
+  </way>
+  <way id='227659322' timestamp='2013-06-27T14:10:36Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727243'>
+    <nd ref='2363080789' />
+    <nd ref='2363080802' />
+    <nd ref='2363080807' />
+    <nd ref='2363080808' />
+    <nd ref='2363080810' />
+    <nd ref='2363080809' />
+    <nd ref='2363080790' />
+    <nd ref='2363080784' />
+  </way>
+  <way id='227660502' timestamp='2013-06-27T14:24:54Z' uid='5616' user='Adrian Frith' visible='true' version='1' changeset='16727404'>
+    <nd ref='2363080746' />
+    <nd ref='2363080767' />
+    <nd ref='2363080770' />
+    <nd ref='2363080772' />
+    <nd ref='2363080789' />
+  </way>
+  <way id='449016418' timestamp='2016-10-23T01:00:27Z' uid='3560' user='Firefishy' visible='true' version='1' changeset='43091819'>
+    <nd ref='336243737' />
+    <nd ref='336242069' />
+    <tag k='access' v='private' />
+    <tag k='highway' v='unclassified' />
+    <tag k='name' v='Stowe Crescent' />
+    <tag k='source' v='City of Cape Town' />
+  </way>
+  <relation id='3030074' timestamp='2013-06-27T14:41:59Z' uid='5616' user='Adrian Frith' visible='true' version='3' changeset='16727584'>
+    <member type='way' ref='227659322' role='outer' />
+    <member type='way' ref='227658408' role='outer' />
+    <member type='way' ref='227662593' role='outer' />
+    <member type='way' ref='227660502' role='outer' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Reddam House' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='3030075' timestamp='2013-06-27T14:24:54Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727404'>
+    <member type='way' ref='227659320' role='outer' />
+    <member type='way' ref='227659318' role='outer' />
+    <member type='way' ref='227660496' role='outer' />
+    <member type='way' ref='227660495' role='outer' />
+    <member type='way' ref='227659321' role='outer' />
+    <member type='way' ref='227659322' role='outer' />
+    <tag k='landuse' v='residential' />
+    <tag k='name' v='Silvertree Estate' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='3030127' timestamp='2013-06-27T14:41:59Z' uid='5616' user='Adrian Frith' visible='true' version='2' changeset='16727584'>
+    <member type='way' ref='227660500' role='outer' />
+    <member type='way' ref='227659321' role='outer' />
+    <member type='way' ref='227660502' role='outer' />
+    <member type='way' ref='227660504' role='outer' />
+    <member type='way' ref='227662595' role='outer' />
+    <member type='way' ref='227660493' role='outer' />
+    <member type='way' ref='227660492' role='outer' />
+    <tag k='landuse' v='commercial' />
+    <tag k='name' v='Westlake Business Park' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+</osm>
